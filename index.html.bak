@@ -1211,8 +1211,8 @@
 
           <h3 class="h3 form-title">Contact Form</h3>
 
-           <form action="https://formsubmit.co/141d6ebf13c4877f3e1ee4e47d54e587" method="post" class="form" data-form>
-
+          <!-- <form action="https://formsubmit.co/141d6ebf13c4877f3e1ee4e47d54e587" method="post" class="form" data-form> -->
+          <form action="./assets/form/contact-form-handler.php" method="post" class="form" data-form>
 
             <div class="input-wrapper">
               <input type="text" name="name" class="form-input" placeholder="Full name" required data-form-input>
